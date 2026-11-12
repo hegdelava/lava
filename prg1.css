@@ -7,15 +7,15 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: #f1f5f9;
+    background: #658bb1;
     display: flex;
 }
 
 .sidebar {
     width: 240px;
     height: 100vh;
-    background: #172554;
-    color: white;
+    background: #284bbd;
+    color: rgb(177, 70, 70);
     padding: 30px 20px;
 }
 
@@ -25,7 +25,7 @@ body {
 
 .sidebar a {
     display: block;
-    color: white;
+    color: rgb(129, 214, 230);
     text-decoration: none;
     padding: 15px 10px;
     margin-bottom: 8px;
